@@ -1,0 +1,28 @@
+name: Rustic Daisy
+favicon: null
+layout_spectrum: 0.5788316384423524
+typography_spectrum: 0.3864905387163162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5715757641009986
+  lightness: 0.4002193263731897
+  saturation: 0.8988199830055237
+  rhythmicContrast: 0.8161225761286914
+purpose: []
